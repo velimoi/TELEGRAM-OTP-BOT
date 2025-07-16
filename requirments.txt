@@ -1,5 +1,5 @@
 flask
-requests
-phonenumbers
 twilio
 pyTelegramBotAPI
+requests
+pytz
